@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=reminder
+Exec=reminder
+Icon=${SNAP}/meta/gui/reminder.png
+Type=Application
